@@ -14,5 +14,9 @@ body{
 
 }
 #cabecera {
+    background-color: blue;
+    color: #ddd;
+    font-size:larger;
     text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
