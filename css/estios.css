@@ -20,3 +20,11 @@ body{
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+#footer {
+    text-align: center;
+    background-color: cornflowerblue;
+    color:#ddd;
+    font-size: smaller;
+    
+    }
+    
