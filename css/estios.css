@@ -20,14 +20,12 @@ body{
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-<<<<<<< HEAD
 #header{
 text-align: center;
 background-color: cornflowerblue;
 color: #ddd;
 font-family: Arial, Helvetica, sans-serif;
 }
-=======
 #footer {
     text-align: center;
     background-color: cornflowerblue;
@@ -36,4 +34,3 @@ font-family: Arial, Helvetica, sans-serif;
     
     }
     
->>>>>>> footer
